@@ -1,7 +1,18 @@
 ### Olá, Bem vindo(a) ao meu espaço 🤪
+##
 
+<p><strong>Sou um dos fascinado por tecnologia!</strong></p>
 
-<div align="center" >
+<ul>
+	<li>&nbsp;🎂 21 Anos.</li>
+	<li>&nbsp;💼 Atualmente trabalho como Desenvolvedor Jr, por&eacute;m estou aberto a novos desafios.</li>
+	<li>&nbsp;💙 Gosto de Back-end e Front-end</li>
+	<li>&nbsp;📕 Cursando Ci&ecirc;ncia da Computa&ccedil;&atilde;o.</li>
+</ul>
+
+##
+<p>&nbsp;📈 <strong>Minha atividade no GitHub</strong></p>
+<div align="left" >
   <a href="https://github.com/guilhermehenriquedev">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilhermehenriquedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehenriquedev&layout=compact&langs_count=7&theme=dracula"/>
