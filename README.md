@@ -6,7 +6,7 @@
 <ul>
 	<li>&nbsp;🎂 21 Anos.</li>
 	<li>&nbsp;💼 Atualmente trabalho como Desenvolvedor FullStack Jr, por&eacute;m estou aberto a novos desafios.</li>
-	<li>&nbsp;💙 Gosto de Back-end</li>
+	<li>&nbsp;💙 Gosto de desenvolvimento FUll-Stack</li>
 	<li>&nbsp;📕 Cursando Ci&ecirc;ncia da Computa&ccedil;&atilde;o.</li>
 </ul>
 
