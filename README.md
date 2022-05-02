@@ -1,4 +1,4 @@
-### Olá, Bem vindo(a) ao meu espaço 🤪
+### Olá, bem vindo(a) ao meu espaço 🤪
 ##
 
 <p><strong>Sou um dos fascinado por tecnologia!</strong></p>
