@@ -1,7 +1,7 @@
 ### Olá, bem vindo(a) ao meu espaço 🤪
 ##
 
-<p><strong>Sou um dos fascinado por tecnologia!</strong></p>
+<p><strong>Um jovem fascinado por tecnologia e umas xícaras de café</strong></p>
 
 <ul>
 	<li>&nbsp;🎂 22 Anos.</li>
