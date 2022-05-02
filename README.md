@@ -4,8 +4,8 @@
 <p><strong>Sou um dos fascinado por tecnologia!</strong></p>
 
 <ul>
-	<li>&nbsp;🎂 21 Anos.</li>
-	<li>&nbsp;💼 Atualmente trabalho como Desenvolvedor FullStack Jr, por&eacute;m estou aberto a novos desafios.</li>
+	<li>&nbsp;🎂 22 Anos.</li>
+	<li>&nbsp;💼 Atualmente trabalho como Desenvolvedor Freelancer, e aberto a novos desafios.</li>
 	<li>&nbsp;💙 Gosto de desenvolvimento Full-Stack</li>
 	<li>&nbsp;📕 Cursando Ci&ecirc;ncia da Computa&ccedil;&atilde;o.</li>
 </ul>
@@ -22,6 +22,8 @@
   <h5>Experiência com:</h5>
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
   
