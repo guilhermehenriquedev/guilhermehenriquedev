@@ -4,9 +4,8 @@
 <p><strong>Um jovem fascinado por tecnologia e umas xícaras de café</strong></p>
 
 <ul>
-	<li>&nbsp;🎂 22 Anos.</li>
-	<li>&nbsp;💼 Atualmente trabalho como Desenvolvedor Freelancer, e aberto a novos desafios.</li>
-	<li>&nbsp;💙 Gosto de desenvolvimento Full-Stack</li>
+	<li>&nbsp;🎂 23 Anos.</li>
+	<li>&nbsp;💙 Desenvolvedor Full Stack</li>
 	<li>&nbsp;📕 Cursando Ci&ecirc;ncia da Computa&ccedil;&atilde;o.</li>
 </ul>
 
