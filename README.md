@@ -6,7 +6,7 @@
 <ul>
 	<li>&nbsp;🎂 23 Anos.</li>
 	<li>&nbsp;💙 Desenvolvedor Full Stack</li>
-	<li>&nbsp;📕 Cursando Ci&ecirc;ncia da Computa&ccedil;&atilde;o.</li>
+	<li>&nbsp;📕 Cursando Ci&ecirc;ncia da Computa&ccedil;&atilde;o. 7/8</li>
 </ul>
 
 ##
