@@ -18,10 +18,13 @@
 <li>🏆 Fui premiado em <strong>2º lugar</strong> em olimpíada <strong>de matemática</strong></li>
 <li>🧐 Curso <strong>ciência da computação</strong> na <strong>Estácio</strong> (2020-2024)</li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/guilhermehenriquedev?tab=repositories">Github</a>.</li>
-<li>📝 Tenho um <a href="" target="_blank">site portfólio </a>.</li>
 <li>💬 Gosto de conversar sobre <strong>tecnologia e inovação</strong>.</li>
 <li>😁 Sou bem comunicativo.</li>
 <li>📙 Confira meu <a href="" target="_blank">currículo</a>.</li>
+</ul>
+<ul>
+ <h2>📝 Artigos publicados</h2>
+  <li><a href="https://medium.com/@guilhermebass27/engenharia-de-software-uma-visão-geral-sobre-técnicas-metodologias-e-desafios-2273ba145d60" target="_blank">Engenharia de Software: Uma visão geral sobre técnicas, metodologias e desafios</a>.</li>
 </ul>
 <h2>🚀 Tenho total domínio</h2>
 <div style="display: flex">
