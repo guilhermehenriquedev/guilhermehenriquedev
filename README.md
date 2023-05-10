@@ -20,7 +20,7 @@
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/guilhermehenriquedev?tab=repositories">Github</a>.</li>
 <li>💬 Gosto de conversar sobre <strong>tecnologia e inovação</strong>.</li>
 <li>😁 Sou bem comunicativo.</li>
-<li>📙 Confira meu <a href="" target="_blank">currículo</a>.</li>
+<li>📙 Confira meu <a href="https://github.com/guilhermehenriquedev/guilhermehenriquedev/blob/master/Curr%C3%ADculo%20Guilherme%20Henrique%20Fernandes%20Lima.pdf" target="_blank">currículo</a>.</li>
 </ul>
 <ul>
  <h2>📝 Artigos publicados</h2>
