@@ -19,6 +19,7 @@
 <li>🧐 Curso <strong>ciência da computação</strong> na <strong>Estácio</strong> (2020-2024)</li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/guilhermehenriquedev?tab=repositories">Github</a>.</li>
 <li>💬 Gosto de conversar sobre <strong>tecnologia e inovação</strong>.</li>
+<li>👨‍💼 Tenho uma empresa de desenvolvimento de sistemas (Gtech Serviços).</li>
 <li>😁 Sou bem comunicativo.</li>
 <li>📙 Confira meu <a href="https://github.com/guilhermehenriquedev/guilhermehenriquedev/blob/master/curriculo_guilherme.pdf" target="_blank">currículo</a>.</li>
 </ul>
