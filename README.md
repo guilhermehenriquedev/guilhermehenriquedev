@@ -16,7 +16,7 @@
 <h2>⚡️ Alguns fatos sobre mim</h2>
 <ul>
 <li>🏆 Fui premiado em <strong>2º lugar</strong> em olimpíada <strong>de matemática</strong></li>
-<li>🧐 Curso <strong>ciência da computação</strong> na <strong>Estácio</strong> (2020-2024)</li>
+<li>🧐 Bacharelado em Ciência da computação </li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/guilhermehenriquedev?tab=repositories">Github</a>.</li>
 <li>💬 Gosto de conversar sobre <strong>tecnologia e inovação</strong>.</li>
 <li>😁 Sou bem comunicativo.</li>
