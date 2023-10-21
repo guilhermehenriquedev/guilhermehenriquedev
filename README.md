@@ -15,6 +15,7 @@
 </div>
 <h2>⚡️ Alguns fatos sobre mim</h2>
 <ul>
+<li>🚀 Tenho uma empresa de tecnologia, onde pego meus freelances</strong></li>
 <li>🏆 Fui premiado em <strong>2º lugar</strong> em olimpíada <strong>de matemática</strong></li>
 <li>🧐 Bacharelado em Ciência da computação </li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/guilhermehenriquedev?tab=repositories">Github</a>.</li>
