@@ -15,13 +15,10 @@
 </div>
 <h2>⚡️ Alguns fatos sobre mim</h2>
 <ul>
-<li>🚀 Tenho uma empresa de tecnologia, onde pego meus freelances</strong></li>
+<li>🚀 Desenvolvo alguns projetos freelancer, <a href="https://github.com/guilherme-henrique-fernades-lima">clique aqui e veja</a>. </strong></li>
 <li>🏆 Fui premiado em <strong>2º lugar</strong> em olimpíada <strong>de matemática</strong></li>
 <li>🧐 Bacharelado em Ciência da computação </li>
 <li>👨‍💻 A maioria dos meus projetos estão no <a href="https://github.com/guilhermehenriquedev?tab=repositories">Github</a>.</li>
-<li>💬 Gosto de conversar sobre <strong>tecnologia e inovação</strong>.</li>
-<li>😁 Sou bem comunicativo.</li>
-<li>📙 Confira meu <a href="https://github.com/guilhermehenriquedev/guilhermehenriquedev/blob/master/curriculo_guilherme.pdf" target="_blank">currículo</a>.</li>
 </ul>
 <ul>
  <h2>📝 Artigos publicados</h2>
