@@ -1,7 +1,4 @@
 <h2>Opa 👋, me chamo Guilherme Henrique</h2>
-<p>
-  Atualmente estou desempregado, buscando novas oportunidades como desenvolvedor fullstack.
-</p>
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/guiilhermedev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
