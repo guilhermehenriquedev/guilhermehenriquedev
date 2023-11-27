@@ -1,4 +1,4 @@
-<h2>Opa 👋, me chamo Guilherme Henrique</h2>
+<h2>Olá 👋, me chamo Guilherme Henrique</h2>
 <div style="display: flex">
   <a href="https://www.linkedin.com/in/guiilhermedev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
