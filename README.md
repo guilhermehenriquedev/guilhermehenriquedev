@@ -12,9 +12,7 @@
 </div>
 <h2>⚡️ Alguns fatos sobre mim</h2>
 <ul>
-<li>🚀 Desenvolvo alguns projetos freelancer, onde não estão exibidos aqui, <a href="https://github.com/guilherme-henrique-fernades-lima">clique aqui e veja</a>. </strong></li>
-<li>🏆 Fui premiado em <strong>2º lugar</strong> em olimpíada <strong>de matemática</strong></li>
-<li>🧐 Bacharelado em Ciência da computação </li>
+<li>Desenvolvedor de software por paixão </li>
 </ul>
 <ul>
  <h2>📝 Artigos publicados</h2>
